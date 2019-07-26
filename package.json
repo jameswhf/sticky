@@ -1,0 +1,10 @@
+{
+  "name": "IndexedList",
+  "version": "1.0.0",
+  "main": "stickey.js",
+  "author": "jameswhf@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
